@@ -1,0 +1,7 @@
+#gameid div {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    vertical-align: middle;
+    display: inline-block;
+}

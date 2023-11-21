@@ -1,7 +1,15 @@
 #gameid div {
-    width: 20px;
-    height: 20px;
+    width: 80px;
+    height: 80px;
     border: 1px solid black;
     vertical-align: middle;
     display: inline-block;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#gameid {
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr ;
 }
